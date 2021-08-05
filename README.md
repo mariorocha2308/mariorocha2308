@@ -3,4 +3,6 @@
 
 ![](https://github.com/mariorocha2308/mariorocha2308/blob/main/67799570-programming-wallpapers.png)
 
-- 🔭 I’m currently working on **my porfolio**
+- 🔭 I’m currently working on **my porfolio** 
+- 👨‍💻 All of my projects are available at **my porfolio**
+- 💬 Ask me about **ReactJs, ExpressJs, CSS, HTML**
